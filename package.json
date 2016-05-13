@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/johnhaley81/npm-optional-dependency-test#readme",
   "optionalDependencies": {
+    "appdmg": "^0.3.7",
     "macos-alias": "^0.2.9"
   }
 }
