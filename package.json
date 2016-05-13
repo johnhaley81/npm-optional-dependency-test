@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/johnhaley81/npm-optional-dependency-test/issues"
   },
-  "homepage": "https://github.com/johnhaley81/npm-optional-dependency-test#readme"
+  "homepage": "https://github.com/johnhaley81/npm-optional-dependency-test#readme",
+  "optionalDependencies": {
+    "macos-alias": "^0.2.9"
+  }
 }

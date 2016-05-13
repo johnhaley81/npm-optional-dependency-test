@@ -1,0 +1,16 @@
+{
+  "name": "npm-optional-dependency-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "macos-alias": {
+      "version": "0.2.9",
+      "from": "macos-alias@latest",
+      "resolved": "https://registry.npmjs.org/macos-alias/-/macos-alias-0.2.9.tgz"
+    },
+    "nan": {
+      "version": "2.3.3",
+      "from": "nan@>=2.0.5 <3.0.0",
+      "resolved": "https://registry.npmjs.org/nan/-/nan-2.3.3.tgz"
+    }
+  }
+}
